@@ -8,4 +8,4 @@ A lightweight Python notebook that simulates how downforce (DL), drag (DD) and a
 - Applies √–scaling laws to predict lap times for different wing setups  
 - Generates bar charts, sector breakdowns, spatial “dominance” maps, radars & parallel-coordinate plots  
 
-Link to short report: https://drive.google.com/file/d/1qJlUkHW3pFfdfzsFlSkZzWirqgR3quR3/view?usp=sharing
+Link to short report: https://drive.google.com/file/d/13k70D7Zutr0nHugxWdk1wk1fUg2sbld1/view?usp=drive_link
